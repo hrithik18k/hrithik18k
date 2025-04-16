@@ -29,15 +29,15 @@
 
 ## 📊 GitHub Stats & Activity
 
-![Hrithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrithik-vasanthram&show_icons=true&theme=radical)
+![Hrithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrithik18k&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik-vasanthram&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik18k&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hrithik-vasanthram&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=hrithik18k&theme=dark&hide_border=true)
 
-![Visitors](https://komarev.com/ghpvc/?username=hrithik-vasanthram&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=hrithik18k&color=blue)
 
-![snake gif](https://github.com/hrithik-vasanthram/hrithik-vasanthram/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/hrithik-vasanthram/hrithik18k/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
