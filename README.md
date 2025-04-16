@@ -33,20 +33,20 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik18k&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hrithik18k&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrithik18k&theme=dark&hide_border=true)
 
 ![Visitors](https://komarev.com/ghpvc/?username=hrithik18k&color=blue)
 
-![snake gif](https://github.com/hrithik-vasanthram/hrithik18k/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/hrithik18k/hrithik18k/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/hrithik-vasanthram-8ba509323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrithik-vasanthram-8ba509323)
 
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrithikvasanthram@gmail.com)
 
----
 
 > “Building tech with purpose – for people, progress, and clean design.” 💡
