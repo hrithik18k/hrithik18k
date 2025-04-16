@@ -33,13 +33,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik18k&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrithik18k&theme=dark&hide_border=true)
-
-![Visitors](https://komarev.com/ghpvc/?username=hrithik18k&color=blue)
-
-![snake gif](https://github.com/hrithik18k/hrithik18k/blob/output/github-contribution-grid-snake.svg)
-
-
 ---
 
 ## 🔗 Connect with Me
@@ -48,5 +41,6 @@
 
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrithikvasanthram@gmail.com)
 
+---
 
 > “Building tech with purpose – for people, progress, and clean design.” 💡
