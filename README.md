@@ -13,8 +13,8 @@
 
  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hrithik18k&theme=dark&hide_border=false)
 
-
 ---
+
 
 ## 💼 Tech Stack
 
@@ -29,11 +29,16 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=hrithik18k&color=blue&style=flat-square)
 ---
 
 ## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hrithik18k&theme=discord&column=7" alt="trophy" />
+</div>
 
 ![Hrithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrithik18k&show_icons=true&theme=radical)
 
