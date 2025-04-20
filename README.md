@@ -36,10 +36,6 @@
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hrithik18k&theme=discord&column=7" alt="trophy" />
-</div>
-
 ![Hrithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrithik18k&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik18k&layout=compact&theme=radical)
