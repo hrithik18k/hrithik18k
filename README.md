@@ -1,6 +1,6 @@
 # Hi, I'm Hrithik Vasanthram 👋
 
-Full Stack Developer | UI/UX Designer | Problem Solver
+👽 Full Stack Developer | UI/UX Designer | Problem Solver
 ---
 
 ## 🐦‍🔥 About Me
