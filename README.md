@@ -77,12 +77,14 @@ const hrithik = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrithik18k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=hrithik18k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithik18k&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik18k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrithik18k&theme=tokyonight" />
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrithik18k&theme=tokyonight" />
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hrithik18k&theme=tokyonight" />
 
 </div>
 
