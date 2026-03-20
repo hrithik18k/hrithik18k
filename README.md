@@ -28,7 +28,6 @@ const hrithik = {
   location: "India 🇮🇳",
   stack: ["MERN", "Python", "C++", "Figma"],
   passions: ["Clean Architecture", "User-Centered Design", "GenAI Projects"],
-  currentlyBuilding: "AI Mental Wellness Check-In App 🧘",
   funFact: "I design in Figma before I code — always.",
   motto: "Building tech with purpose — for people, progress, and clean design. 💡"
 };
@@ -101,22 +100,6 @@ const hrithik = {
 | 🤖 | GenAI Application Builder |
 | 🧩 | Problem Solver with C++ & Python |
 | 🚀 | Always shipping, always learning |
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🧘 **AI Mental Wellness Check-In** | Daily mood tracker with AI-generated wellness reports & trend dashboard | React, Claude API, Chart.js |
-| 🌐 **Portfolio Website** | Personal portfolio with smooth animations and project showcases | React, Tailwind CSS |
-| 🛒 **MERN E-Commerce App** | Full-stack e-commerce platform with auth, cart, and payments | MongoDB, Express, React, Node |
-
-> 📌 *Pinned repositories below for full details*
 
 </div>
 
