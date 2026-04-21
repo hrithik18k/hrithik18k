@@ -18,7 +18,7 @@ const hrithik = {
 };
 ```
 
-**Languages:** JS · Python · C++ · HTML · CSS  
+**Languages:** JS · Python · C++ · HTML · JAVA · CSS  
 **Frameworks:** React · Node.js · Express · Tailwind  
 **DB / Cloud:** MongoDB · Firebase  
 **Tools:** Figma · Git · VS Code · Postman
