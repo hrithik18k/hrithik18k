@@ -1,6 +1,9 @@
+<a href="https://gitroll.io/profile/uhelghIkPW6P6qHUGy5K00YoTo9v1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhelghIkPW6P6qHUGy5K00YoTo9v1?theme=midnight" alt="GitRoll Profile Badge"/></a>
+
+---
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hrithik%20Vasanthram&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descSize=16&descAlignY=60&descColor=a78bfa&animation=fadeIn"/>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik-vasanthram-8ba509323)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrithikvasanthram@gmail.com)
@@ -8,11 +11,6 @@
 ![Views](https://komarev.com/ghpvc/?username=hrithik18k&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-
----
-<a href="https://gitroll.io/profile/uhelghIkPW6P6qHUGy5K00YoTo9v1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhelghIkPW6P6qHUGy5K00YoTo9v1?theme=midnight" alt="GitRoll Profile Badge"/></a>
-
----
 
 <div align="center">
 
