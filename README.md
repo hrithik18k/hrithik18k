@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik-vasanthram-8ba509323)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrithikvasanthram@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/hrithik18k)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=yellow)](https://leetcode.com/hrithik18k/)
 ![Views](https://komarev.com/ghpvc/?username=hrithik18k&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
