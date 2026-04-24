@@ -10,18 +10,7 @@
 </div>
 
 ---
-
-```js
-const hrithik = {
-  stack: ["MERN", "Python", "Figma"],
-  motto: "Design first, then code."
-};
-```
-
-**Languages:** JS · Python · C++ · HTML · JAVA · CSS  
-**Frameworks:** React · Node.js · Express · Tailwind  
-**DB / Cloud:** MongoDB · Firebase  
-**Tools:** Figma · Git · VS Code · Postman
+<a href="https://gitroll.io/profile/uhelghIkPW6P6qHUGy5K00YoTo9v1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhelghIkPW6P6qHUGy5K00YoTo9v1?theme=midnight" alt="GitRoll Profile Badge"/></a>
 
 ---
 
