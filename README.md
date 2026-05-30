@@ -1,7 +1,7 @@
 <a href="https://gitroll.io/profile/uhelghIkPW6P6qHUGy5K00YoTo9v1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhelghIkPW6P6qHUGy5K00YoTo9v1?theme=retro" alt="GitRoll Profile Badge"/></a>
 
 ---
-<div align="center"> 
+<div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik18k)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrithikvasanthram@gmail.com)
